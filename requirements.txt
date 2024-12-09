@@ -1,0 +1,5 @@
+# requirements.txt
+flask==2.0.1
+pyjwt==2.3.0
+cryptography==3.4.7
+argon2-cffi==21.3.0
