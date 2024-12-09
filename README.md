@@ -25,7 +25,5 @@ SQL Injection Protection: All database queries use parameterized queries.
 Rate Limiting: Limits the number of requests to /auth to prevent abuse.
 ### screenshots
 ![WhatsApp Image 2024-12-09 at 12 40 40 AM](https://github.com/user-attachments/assets/25cb7ec5-1a72-4efe-8986-c0667304343c)
-
-
 ## Coverage Report
 ![WhatsApp Image 2024-12-09 at 12 44 43 AM](https://github.com/user-attachments/assets/c16b65eb-4330-4bb8-b4bf-76d4f8f65c13)
