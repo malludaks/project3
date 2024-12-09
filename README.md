@@ -24,6 +24,8 @@ Encrypted Key Management: Private keys are encrypted using AES before being stor
 SQL Injection Protection: All database queries use parameterized queries.
 Rate Limiting: Limits the number of requests to /auth to prevent abuse.
 ### screenshots
-![WhatsApp Image 2024-12-08 at 11 47 50 PM (1)](https://github.com/user-attachments/assets/ff2a120a-c85a-415f-9ef2-49ab5ea9c5d1)
+![WhatsApp Image 2024-12-09 at 12 40 40 AM](https://github.com/user-attachments/assets/25cb7ec5-1a72-4efe-8986-c0667304343c)
+
 
 ## Coverage Report
+![WhatsApp Image 2024-12-09 at 12 44 43 AM](https://github.com/user-attachments/assets/c16b65eb-4330-4bb8-b4bf-76d4f8f65c13)
